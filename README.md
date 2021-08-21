@@ -57,3 +57,7 @@ List ERC20 Token on Uniswap
         Once transaction finished you can click on Preview to view the added Token vs ETH liquidity pool
         Click Add to finalize the adding of assets and liquidity pool creation
     New Pool will display once success on your positions on page
+
+#Koven test Network Deployed Contract
+
+https://kovan.etherscan.io/token/0xb023cb5ca53d4f66364a2b5692c249bd8796570b
